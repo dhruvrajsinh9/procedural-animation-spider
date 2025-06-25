@@ -79,16 +79,6 @@ IEnumerator Step() {
     }
 }
 ```
-
-
-## Contribution Guidelines
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/improve-leg-ik`)
-3. Commit changes with descriptive messages
-4. Push to branch
-5. Submit pull request
-
 ---
 *Project created for educational purposes - June 2025*
 
