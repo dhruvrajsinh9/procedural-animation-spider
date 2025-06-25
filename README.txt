@@ -38,7 +38,7 @@ Most of our time was spent understanding and adapting the inverse kinematics (IK
 https://drive.google.com/file/d/1jkwX0g-4hgSXOmlXPFtLVmTU_4l7p-rR/view?usp=sharing
 
 *Link to Project Files (if >100MB):*  
-[Insert Google Drive/Dropbox link here, if needed]
+https://github.com/dhruvrajsinh9/procedural-animation-spider
 
 *If Not Presented Live: Video Presentation (12–17 min):*  
 https://drive.google.com/file/d/1EswSoKoDwRmRStNmL6c9eQNYoX9jGdwW/view?usp=sharing
